@@ -1,5 +1,8 @@
 # ♻️ TrashSort AI
 
+![GitHub stars](https://img.shields.io/github/stars/rutikakengal/TrashSort-AI)
+![Hugging Face Space](https://img.shields.io/badge/Live-Demo-blue)
+
 A lightweight AI-based simulation environment for intelligent trash classification, built using a clean OpenEnv-style structure.
 
 ---
