@@ -1,0 +1,12 @@
+name: TrashSort AI
+description: A smart trash classification environment using AI model simulation
+author: Coddy
+version: 1.0
+
+tasks:
+  easy:
+    episodes: 20
+  medium:
+    episodes: 50
+  hard:
+    episodes: 100
